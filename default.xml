@@ -20,6 +20,6 @@
 
   <project remote="freescale" revision="daisy" name="meta-fsl-arm-extra" path="sources/meta-fsl-arm-extra"/>
   -->
-  <project remote="freescale" revision="daisy" name="meta-fsl-demos" path="sources/meta-fsl-demos"/>
+  <project remote="freescale" revision="60588a7c20f97f6db670bcdad481c8323859ad8f" name="meta-fsl-demos" path="sources/meta-fsl-demos"/>
 
 </manifest>
