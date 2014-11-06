@@ -6,6 +6,7 @@
   <remote fetch="git://git.yoctoproject.org" name="yocto"/>
   <remote fetch="git://github.com/Freescale" name="freescale"/>
   <remote fetch="git://git.openembedded.org" name="oe"/>
+  <remote fetch="git://github.com/meta-qt5/meta-qt5" name="qt5"/>
 
   <project remote="yocto" revision="b2f045c400fa8bd20b319c60137b1575f967cef1" name="poky" path="sources/poky"/>
   <project remote="yocto" revision="e9bf647e10ff1e31f911d3236dbb22a1ad7ace9f" name="meta-fsl-arm" path="sources/meta-fsl-arm"/>
@@ -19,5 +20,8 @@
 
   <project remote="freescale" revision="e041d9a118c5eecf4010bcb41bb5c554636090ab" name="meta-fsl-arm-extra" path="sources/meta-fsl-arm-extra"/>
   <project remote="freescale" revision="60588a7c20f97f6db670bcdad481c8323859ad8f" name="meta-fsl-demos" path="sources/meta-fsl-demos"/>
+  
+  <!--add ben-->
+  <project remote="qt5" revision="c29c317e0f22202bfaa85329a580564bbc179089" name="meta-qt5" path="sources/meta-qt5"/>
 
 </manifest>
