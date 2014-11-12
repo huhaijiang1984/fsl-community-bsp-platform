@@ -7,7 +7,7 @@
   <remote fetch="git://github.com/Freescale" name="freescale"/>
   <remote fetch="git://git.openembedded.org" name="oe"/>
   <remote fetch="git://github.com/meta-qt5" name="qt5"/>
-  <remote fetch="git://github.com/huhaijiang1984/meta-hio-public" name="meta-hio-public"/>
+  <remote fetch="git://github.com/huhaijiang1984" name="meta-hio"/>
 
   <project remote="yocto" revision="b2f045c400fa8bd20b319c60137b1575f967cef1" name="poky" path="sources/poky"/>
   <project remote="yocto" revision="e9bf647e10ff1e31f911d3236dbb22a1ad7ace9f" name="meta-fsl-arm" path="sources/meta-fsl-arm"/>
@@ -26,7 +26,7 @@
   <project remote="qt5" revision="c29c317e0f22202bfaa85329a580564bbc179089" name="meta-qt5" path="sources/meta-qt5"/>
   
   <!--add ben-->
-  <project remote="meta-hio-public" revision="master" name="meta-hio" path="sources/meta-hio"/>
+  <project remote="meta-hio" revision="master" name="meta-hio" path="sources/meta-hio"/>
   <!--<project remote="meta-hio-public" revision="master" name="meta-hio-demos" path="sources/meta-hio-demos"/>
   <project remote="meta-hio-public" revision="master" name="meta-hio-projects" path="sources/meta-hio-projects"/>-->
   
