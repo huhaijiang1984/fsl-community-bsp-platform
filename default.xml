@@ -29,6 +29,7 @@
   <project remote="meta-hio-public" revision="master" name="meta-hio" path="sources/meta-hio"/>
   <project remote="meta-hio-public" revision="master" name="meta-hio-demos" path="sources/meta-hio-demos"/>
   <project remote="meta-hio-public" revision="master" name="meta-hio-projects" path="sources/meta-hio-projects"/>
+  <project remote="meta-hio-public" revision="master" name="meta-hio-custom" path="sources/meta-hio-custom"/>
   
   
 
